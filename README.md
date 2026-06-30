@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omtiwari2171-debug/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/omtiwari2171-debug/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/omtiwari2171-debug/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/omtiwari2171-debug/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/omtiwari2171-debug/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/omtiwari2171-debug/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
