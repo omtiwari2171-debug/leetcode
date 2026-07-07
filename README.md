@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/omtiwari2171-debug/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/omtiwari2171-debug/leetcode/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/omtiwari2171-debug/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/omtiwari2171-debug/leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omtiwari2171-debug/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
