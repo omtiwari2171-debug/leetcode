@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omtiwari2171-debug/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/omtiwari2171-debug/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/omtiwari2171-debug/leetcode/tree/master/0055-jump-game) |
 ## String
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/omtiwari2171-debug/leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/omtiwari2171-debug/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/omtiwari2171-debug/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/omtiwari2171-debug/leetcode/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/omtiwari2171-debug/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/omtiwari2171-debug/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/omtiwari2171-debug/leetcode/tree/master/0044-wildcard-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/omtiwari2171-debug/leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/omtiwari2171-debug/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/omtiwari2171-debug/leetcode/tree/master/0055-jump-game) |
 ## Stack
 |  |
