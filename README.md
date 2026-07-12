@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/omtiwari2171-debug/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/omtiwari2171-debug/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/omtiwari2171-debug/leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/omtiwari2171-debug/leetcode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/omtiwari2171-debug/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/omtiwari2171-debug/leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/omtiwari2171-debug/leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
