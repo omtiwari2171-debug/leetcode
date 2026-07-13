@@ -1,5 +1,35 @@
-# leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 📅 Daily LeetCode Challenge
+
+Welcome to my daily LeetCode repository! This repository serves as a testament to my commitment to continuous learning, problem-solving consistency, and mastering Data Structures and Algorithms (DSA) using Java.
+
+---
+
+## 🚀 About Me & The Goal
+
+* **Language of Choice:** Java ☕
+* **The Mission:** Solve at least one LeetCode problem every single day to maintain a continuous streak, optimize space/time complexity, and sharpen analytical skills.
+* **Activeness:** Daily commits tracking my progress, refactoring code, and documenting different approaches (Brute Force to Optimal).
+
+---
+
+## 🛠️ Tech Stack & Stats
+
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![LeetCode Streak](https://img.shields.io/badge/LeetCode-Continuous%20Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Git Activeness](https://img.shields.io/badge/Git-Daily%20Commits-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Repository Structure
+
+The repository is organized by problem difficulty and topic to keep things clean and navigable:
+
+
+
+
+
+
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -129,3 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/omtiwari2171-debug/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
+
+
