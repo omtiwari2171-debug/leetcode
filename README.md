@@ -60,6 +60,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0049-group-anagrams](https://github.com/omtiwari2171-debug/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/omtiwari2171-debug/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/omtiwari2171-debug/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/omtiwari2171-debug/leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0015-3sum](https://github.com/omtiwari2171-debug/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/omtiwari2171-debug/leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/omtiwari2171-debug/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/omtiwari2171-debug/leetcode/tree/master/0056-merge-intervals) |
 ## Linked List
 |  |
 | ------- |
