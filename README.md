@@ -91,6 +91,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0049-group-anagrams](https://github.com/omtiwari2171-debug/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/omtiwari2171-debug/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/omtiwari2171-debug/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/omtiwari2171-debug/leetcode/tree/master/0071-simplify-path) |
 ## Trie
 |  |
 | ------- |
@@ -148,6 +149,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omtiwari2171-debug/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/omtiwari2171-debug/leetcode/tree/master/0071-simplify-path) |
 ## Simulation
 |  |
 | ------- |
