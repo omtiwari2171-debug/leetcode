@@ -41,6 +41,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0043-multiply-strings](https://github.com/omtiwari2171-debug/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/omtiwari2171-debug/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/omtiwari2171-debug/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/omtiwari2171-debug/leetcode/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -142,6 +143,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0010-regular-expression-matching](https://github.com/omtiwari2171-debug/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/omtiwari2171-debug/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/omtiwari2171-debug/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/omtiwari2171-debug/leetcode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +162,10 @@ The repository is organized by problem difficulty and topic to keep things clean
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/omtiwari2171-debug/leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/omtiwari2171-debug/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
 
 
