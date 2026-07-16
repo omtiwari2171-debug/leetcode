@@ -63,6 +63,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0055-jump-game](https://github.com/omtiwari2171-debug/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/omtiwari2171-debug/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/omtiwari2171-debug/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/omtiwari2171-debug/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,12 +128,14 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0037-sudoku-solver](https://github.com/omtiwari2171-debug/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/omtiwari2171-debug/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/omtiwari2171-debug/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/omtiwari2171-debug/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/omtiwari2171-debug/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/omtiwari2171-debug/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/omtiwari2171-debug/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
