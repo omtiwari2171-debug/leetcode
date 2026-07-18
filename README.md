@@ -66,6 +66,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0073-set-matrix-zeroes](https://github.com/omtiwari2171-debug/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0033-search-in-rotated-sorted-array](https://github.com/omtiwari2171-debug/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/omtiwari2171-debug/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
