@@ -67,6 +67,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0074-search-a-2d-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/omtiwari2171-debug/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | ------- |
 | [0020-valid-parentheses](https://github.com/omtiwari2171-debug/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/omtiwari2171-debug/leetcode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/omtiwari2171-debug/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +180,10 @@ The repository is organized by problem difficulty and topic to keep things clean
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/omtiwari2171-debug/leetcode/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/omtiwari2171-debug/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
 
 
