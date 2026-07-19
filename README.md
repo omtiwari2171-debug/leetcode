@@ -68,6 +68,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omtiwari2171-debug/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/omtiwari2171-debug/leetcode/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0054-spiral-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/omtiwari2171-debug/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/omtiwari2171-debug/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/omtiwari2171-debug/leetcode/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,12 +158,14 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0044-wildcard-matching](https://github.com/omtiwari2171-debug/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/omtiwari2171-debug/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/omtiwari2171-debug/leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/omtiwari2171-debug/leetcode/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omtiwari2171-debug/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/omtiwari2171-debug/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omtiwari2171-debug/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/omtiwari2171-debug/leetcode/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -184,6 +188,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/omtiwari2171-debug/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/omtiwari2171-debug/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
 
 
