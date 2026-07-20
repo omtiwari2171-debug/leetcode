@@ -118,6 +118,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/omtiwari2171-debug/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
