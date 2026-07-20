@@ -101,6 +101,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0065-valid-number](https://github.com/omtiwari2171-debug/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/omtiwari2171-debug/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/omtiwari2171-debug/leetcode/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/omtiwari2171-debug/leetcode/tree/master/0091-decode-ways) |
 ## Trie
 |  |
 | ------- |
@@ -162,6 +163,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0055-jump-game](https://github.com/omtiwari2171-debug/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/omtiwari2171-debug/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/omtiwari2171-debug/leetcode/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/omtiwari2171-debug/leetcode/tree/master/0091-decode-ways) |
 ## Stack
 |  |
 | ------- |
