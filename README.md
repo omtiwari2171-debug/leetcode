@@ -174,6 +174,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0071-simplify-path](https://github.com/omtiwari2171-debug/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omtiwari2171-debug/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/omtiwari2171-debug/leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/omtiwari2171-debug/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +198,18 @@ The repository is organized by problem difficulty and topic to keep things clean
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/omtiwari2171-debug/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/omtiwari2171-debug/leetcode/tree/master/0085-maximal-rectangle) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/omtiwari2171-debug/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/omtiwari2171-debug/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/omtiwari2171-debug/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
 
 
