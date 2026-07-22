@@ -102,6 +102,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0067-add-binary](https://github.com/omtiwari2171-debug/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/omtiwari2171-debug/leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/omtiwari2171-debug/leetcode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/omtiwari2171-debug/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Trie
 |  |
 | ------- |
@@ -156,6 +157,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | ------- |
 | [0037-sudoku-solver](https://github.com/omtiwari2171-debug/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0040-combination-sum-ii) |
+| [0093-restore-ip-addresses](https://github.com/omtiwari2171-debug/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Dynamic Programming
 |  |
 | ------- |
