@@ -42,6 +42,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0066-plus-one](https://github.com/omtiwari2171-debug/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/omtiwari2171-debug/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/omtiwari2171-debug/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/omtiwari2171-debug/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Array
 |  |
 | ------- |
@@ -169,6 +170,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0085-maximal-rectangle](https://github.com/omtiwari2171-debug/leetcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/omtiwari2171-debug/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/omtiwari2171-debug/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +207,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omtiwari2171-debug/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/omtiwari2171-debug/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -214,10 +217,12 @@ The repository is organized by problem difficulty and topic to keep things clean
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omtiwari2171-debug/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/omtiwari2171-debug/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/omtiwari2171-debug/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
 
 
