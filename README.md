@@ -122,6 +122,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/omtiwari2171-debug/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/omtiwari2171-debug/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -215,6 +216,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0100-same-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/omtiwari2171-debug/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -234,6 +236,7 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0100-same-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/omtiwari2171-debug/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -241,12 +244,17 @@ The repository is organized by problem difficulty and topic to keep things clean
 | [0096-unique-binary-search-trees](https://github.com/omtiwari2171-debug/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/omtiwari2171-debug/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/omtiwari2171-debug/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
 
 
